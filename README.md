@@ -1,1 +1,1 @@
-Currency Converter 
+This is a currency converter application developed using Python, featuring real-time exchange rates obtained through an API. The tool offers quick and precise currency conversions, enhancing user convenience with up-to-date financial information.
